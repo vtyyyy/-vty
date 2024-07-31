@@ -1,2 +1,2 @@
-# -vty
+# $ vty
 @vtyschrist
